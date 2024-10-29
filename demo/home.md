@@ -43,9 +43,6 @@ why_different: |
 
 Samuel has over 30 years of experience appraising real estate throughout Santa Clara, San Mateo, and Alameda County. Fully Licensed and Insured Certified California Appraiser. Experienced and trained for high end and custom home and large estate valuations.
 
-## This Week's Appraised Houses
-
-- $3,500,000 Home in Los Altos Hills, 4,750 SF Contemporary Style, on a half acre lot.
 
 ## Get in touch!
 

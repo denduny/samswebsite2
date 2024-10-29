@@ -1,24 +1,41 @@
 ---
 title: Frequently Asked Questions
-description: Campaign Frequently Asked Questions
+description: Wall Street Appraisals - Real Estate Valuation Services
 permalink: /faq/
 
 layout: page
 
 ---
 
-Here are some of the most common questions about my campaign. If you have any questions, [contact me](/contact)
+Welcome to Wall Street Appraisals, your #1 choice for real estate valuation services in the Bay Area. Established in 1984, we are state-certified real estate appraisers with over 30 years of experience.
 
-## How does Sergio feel about ... ?
-My policies are posted [here](/on-the-issues), but if there's _any_ issue you do not see any information about, please [contact me.](/contact) I am excited to speak with voters over the phone, on Twitter, or over email. 
+## About Us
+Samuel Sada is a certified and FHA-approved real estate appraiser with thousands of appraisals completed throughout the San Jose - San Francisco area. He is also a quality control appraiser for major banks and lenders. Rest assured that any appraisal completed by S. Samuel will be complete and thorough, ensuring no questions arise during your bankruptcy, divorce, or estate proceedings.
 
-I will update my websites with new policy positions as they become available.
+## Service Area & Fees
+We provide high-quality real estate valuation services throughout greater San Jose, Santa Clara, Alameda, and San Mateo counties. Samuel is an expert in complex and high-value appraisal assignments, offering expert opinions on San Jose homes, commercial buildings, apartments, and other income properties.
 
-## What political party is this campaign?
-The office of City Council Member is non-partisan, so this campaign is non-partisan. We believe that running on a non-partisan platform bring together all voters to accomplish great things for our District.
+## Contact Us
+Call Samuel at 408-921-0779 or [contact us](/contact) today!
 
-## How can I see campaign finance data?
-All documents relating to campaign finance are online at the [transparency page](/transparency). Most documents remain completely un-redacted. Some documents are partially redacted to protect social security numbers, bank account numbers, home addresses of campaign staff (but not the candidate,) and signatures to prevent fraud.
+## This Week's Appraised Houses
+- $3,500,000 Home in Los Altos Hills, 4,750 SF Contemporary Style, on a half-acre lot.
 
-## Why does each document have multiple links?
-A document may have an "Official" link which is a link to the city/government website with the filing. All documents have "Archive" links which are copies of the document stored in the [Internet Archive's](https://archive.org/about){: .usa-external_link}. This is to ensure that a true copy is always available, even if it were to be changed on this site or if this site were to go offline (for example, at the end of the campaign). The Internet Archive is a well-trusted source for historical copies of information, including full-text archival copies of webpages. Finally, some documents may have a generic link to a location on this site.
+## Services Offered
+- Divorce Appraisals
+- Bankruptcy Appraisals
+- Estate Planning & Trusts
+- PMI Removal Appraisals
+- Pre-Foreclosure & Short Sales
+- Tax Assessment Appeals
+- Pre-Listing, Pre-Purchase
+- FSBO’s Rush Appraisals
+- Retrospective Appraisal
+
+## Experience
+Samuel has extensive experience appraising properties throughout Santa Clara, San Mateo, and Alameda counties. He is a certified review appraiser with extensive experience in appraisal quality control for major banks, lenders, and credit unions.
+
+## Meet Samuel
+Samuel has over 30 years of experience appraising real estate throughout Santa Clara, San Mateo, and Alameda County. Fully licensed and insured, he is a certified California appraiser experienced in high-end and custom home and large estate valuations.
+
+For more information, please visit our [home page](/) or [about page](/about).
