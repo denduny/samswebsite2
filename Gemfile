@@ -1,8 +1,6 @@
 source "https://rubygems.org"
-gemspec :name => 'uswds-jekyll'
 
-group :jekyll_plugins do
-  gem 'jekyll-last-modified-at'
-  gem 'jekyll-sitemap'
-  gem 'jekyll-seo-tag'
-end
+ruby "2.7.4"  # Specify an older Ruby version that's compatible with Bundler 1.17.3
+
+gem "jekyll"
+# Add other gems your site needs
