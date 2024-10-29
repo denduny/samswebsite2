@@ -18,8 +18,6 @@ We provide high-quality real estate valuation services throughout greater San Jo
 ## Contact Us
 Call Samuel at 408-921-0779 or [contact us](/contact) today!
 
-## This Week's Appraised Houses
-- $3,500,000 Home in Los Altos Hills, 4,750 SF Contemporary Style, on a half-acre lot.
 
 ## Services Offered
 - Divorce Appraisals

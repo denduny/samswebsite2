@@ -30,7 +30,7 @@ Not only has Samuel been appraising properties throughout San Jose and Santa Cla
 We provide the highest quality of Customer Service while completing a 100% honest and ethical appraisal of your property. Data-backed and extra research provided at no additional charge.
 
 ## Social
-Follow us on [Twitter](https://twitter.com/sergiozygmunt){: .usa-external_link}
+Call Samuel at 408-921-0779 or [contact us](/contact) at samisada@yahoo.com today!
 
 ## Campaign Finance and Transparency
 Transparency is a major campaign point for us. You can review all filings made, as well as personal and campaign finance documents, within the [transparency page](/transparency).
