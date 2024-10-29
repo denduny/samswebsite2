@@ -1,50 +1,52 @@
 ---
-title: Home
-description: Sergio Zygmunt for San Mateo District 3 City Council
+title: Wall Street Appraisals
+description: State Certified Real Estate Appraisers Established 1984
 permalink: /
 
 layout: home
 
 hero:
-  image: /cdn-cgi/imagedelivery/_XTek0G9L522C176GFwlSQ/49dfabb3-fce2-4ab8-0f83-b4e76097c900/unlimited
+  image: /path/to/your/image
   callout:
-    alt: "Hello"
-    text: I'm Sergio
+    alt: "Welcome"
+    text: Welcome to Wall Street Appraisals
   button:
-    href: /on-the-issues/
-    text: On the Issues
-  content: I'm running for San Mateo District 3 City Council to make a more equitable, hopeful tomorrow.
+    href: /contact/
+    text: Contact Us
+  content: If you are looking for high quality real estate valuation services by an appraiser with over 30 years’ experience throughout greater San Jose, Santa Clara, Alameda, and San Mateo county, look no further!
 
-tagline: Stand with Sergio to make a more hopeful tomorrow.<br><button onclick="location.href='https://sergioforsanmateo.com/donate'" class="">Donate</button>
+tagline: #1 Choice for Real Estate Valuation Services in The Bay Area<br><button onclick="location.href='tel:408-921-0779'" class="">Call S. Samuel 408-921-0779</button>
 intro: |
-  San Mateo deserves a City Council member who relates to them, not a career politician.
+  Samuel Sada is a certified and FHA approved real estate appraiser with thousands of appraisals completed throughout San Jose - San Francisco area. He is also a quality control appraiser for major banks and lenders. Rest assured that any appraisal completed by S. Samuel will be complete and thorough so no questions arise during your bankruptcy, divorce, or estate proceedings.
 
-  Sergio's [policies](/on-the-issues/) are practical, fair, and equitable to make San Mateo a better place to live and work for everyone.
-  
+  An expert in complex and high value appraisal assignments, Samuel can provide his expert opinion of value on your San Jose Home. He also has years of experience with commercial buildings, apartments, and other income properties. Call 408-921-0779 or contact us today!
 
-graphics:
-  - image:
-      src: /cdn-cgi/imagedelivery/_XTek0G9L522C176GFwlSQ/df0e7766-3dfe-46d3-5ce2-ddfcfe746700/uswdsgraphics
-      alt: 'Train icon'
-    title: Making Transit Accessible
-    description: I want to make it easier for all San Mateo residents to access public transit.
-  - image:
-      src: /cdn-cgi/imagedelivery/_XTek0G9L522C176GFwlSQ/9aa8cb2c-766d-47e8-575d-1a9ff0e34d00/uswdsgraphics
-      alt: 'Earth icon'
-    title: Reducing Business Pollution
-    description: I want to make San Mateo a cleaner place to raise a family.
-  - image:
-      src: /cdn-cgi/imagedelivery/_XTek0G9L522C176GFwlSQ/b4cf3f19-a8c5-4b3c-5348-712818202700/uswdsgraphics
-      alt: 'Housing'
-    title: Making Housing Accessible
-    description: I want to promote mixed use development that's well connected to transit to improve access to affordable housing.
-  - image:
-      src: /cdn-cgi/imagedelivery/_XTek0G9L522C176GFwlSQ/a87b7962-1716-4bac-d32d-8cd5b0ccd400/uswdsgraphics
-      alt: 'Science Education'
-    title: Promoting Science Education
-    description: I want to add more extra curricular programs to get our next generation excited for science and engineering.
+services:
+  - title: Divorce Appraisals
+  - title: Bankruptcy Appraisals
+  - title: Estate Planning & Trusts
+  - title: PMI Removal Appraisals
+  - title: Pre-Foreclosure & Short Sales
+  - title: Tax Assessment Appeals
+  - title: Pre-Listing, Pre-Purchase
+  - title: FSBO’s Rush Appraisals
+  - title: Retrospective Appraisal
+
+experience: |
+  Not only has Samuel been appraising properties throughout San Jose and Santa Clara, San Mateo County, he is also a certified review appraiser, with extensive experience in appraisal Quality Control for major banks, lenders, and credit unions.
+
+why_different: |
+  We provide the highest quality of Customer Service while completing a 100% honest and ethical appraisal of your property. Data backed and extra research provided at no additional charge.
 
 ---
+## Meet Samuel
+
+Samuel has over 30 years of experience appraising real estate throughout Santa Clara, San Mateo, and Alameda County. Fully Licensed and Insured Certified California Appraiser. Experienced and trained for high end and custom home and large estate valuations.
+
+## This Week's Appraised Houses
+
+- $3,500,000 Home in Los Altos Hills, 4,750 SF Contemporary Style, on a half acre lot.
+
 ## Get in touch!
 
 If you have any questions, comments, concerns, or anything else, feel free to get in touch.
