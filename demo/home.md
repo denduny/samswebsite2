@@ -6,7 +6,7 @@ permalink: /
 layout: home
 
 hero:
-  image: /assets/img/paintedladies.jpg.
+  image: assets/img/paintedladies.jpg
   callout:
     
     text: Welcome to Wall Street Appraisals
