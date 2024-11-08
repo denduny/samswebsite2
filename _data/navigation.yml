@@ -37,9 +37,9 @@ primary:
   #       href: /voter-data/
   #     - text: Election security
   #       href: /election-security/
-  - text: FAQs
-    href: /faq/
-    external: false
+  # - text: FAQs
+  #   href: /faq/
+  #   external: false
   # - text: Twitter
   #   href: https://twitter.com/sergiozygmunt
     # external: true
@@ -65,16 +65,16 @@ secondary:
 #     external: true
 
 footer:
-  - text: On the Issues
-    href: /on-the-issues/
-  # - text: Meet Sergio
+  # - text: On the Issues
   #   href: /on-the-issues/
-  - text: Transparency
-    href: /transparency/
-    external: false
-  - text: Election security
-    href: /election-security/
-    external: false
+  # # - text: Meet Sergio
+  # #   href: /on-the-issues/
+  # - text: Transparency
+  #   href: /transparency/
+  #   external: false
+  # - text: Election security
+  #   href: /election-security/
+  #   external: false
   - text: Get in touch
     href: /contact/
     external: false
